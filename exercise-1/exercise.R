@@ -1,7 +1,7 @@
 # Exercise 1: Lists
 
 # Create a vector of everything you ate for breakfast
-my.breakfast <- c('yogurt', 'orange juice', 'english muffin')
+my.breakfast <- c('yogurt', 'orange-juice', 'english-muffin')
 
 # Create a vector of everything you ate for lunch
 my.lunch <- c('apple', 'quesadilla')
